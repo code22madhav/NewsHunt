@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Adam Kilgore",
+            "title": "How Patrick Mahomes, achy ankle and all, willed the Chiefs to the Super Bowl - The Washington Post",
+            "description": "After a week of constant rehab and a game of frequent pain, Mahomes made a game-winning scramble that added to his growing legend.",
+            "url": "https://www.washingtonpost.com/sports/2023/01/30/patrick-mahomes-ankle-chiefs/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W37RNYFGH32X77I5NWRXK7XTNI.jpg&w=1440",
+            "publishedAt": "2023-01-30T18:05:11Z",
+            "content": "Comment on this story\r\nKANSAS CITY, Mo. Patrick Mahomes Sr. stood in the shadow of the stage, a few feet away from where people wearing No. 15 jerseys made snow angels in the red and yellow confetti … [+11486 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "Ford and General Motors enter a new phase of uncertainty on prices and demand - CNBC",
+            "description": "Ford and General Motors are set to report earnings this week.",
+            "url": "https://www.cnbc.com/2023/01/30/ford-general-motors-earnings-prices.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107185944-1675099899718-gettyimages-1240010518-NY_AUTO_SHOW_2022.jpeg?v=1675102814&w=1920&h=1080",
+            "publishedAt": "2023-01-30T17:40:59Z",
+            "content": "DETROIT Let's talk about pricing power.\r\nAt least, General Motors and Ford Motor likely will be doing that this week as they report fourth-quarter results and 2023 guidance, with Wall Street watching… [+3864 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "The Last Of US TV Show Creators Explain Massive Change From The Game - Kotaku",
+            "description": "Neil Druckmann and Craig Mazin discuss adapting Bill and Frank’s story",
+            "url": "https://kotaku.com/last-us-hbo-show-bill-frank-neil-druckman-craig-mazin-1850048289",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/64fefccffeb03810441632c916353d2b.jpg",
+            "publishedAt": "2023-01-30T17:35:00Z",
+            "content": "While The Last Of Us TV show has remained very faithful to the PlayStation, its occasionally deviated in significant ways. Episode three, which aired last night, showcased the biggest change from the… [+3314 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Deidre McPhillips",
+            "title": "Covid-19 is a leading cause of death for children in the US, despite relatively low mortality rate - CNN",
+            "description": "Covid-19 has become the eighth most common cause of death among children in the United States, according to a study published Monday.",
+            "url": "https://www.cnn.com/2023/01/30/health/covid-deaths-children/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230130103809-face-mask-on-ground-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-30T17:16:00Z",
+            "content": "Covid-19 has become the eighth most common cause of death among children in the United States, according to a study published Monday.\r\nChildren are significantly less likely to die from Covid-19 than… [+3539 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Gunjan Banerji, WSJ Staff, Rory Jones, Eric Wallerstein, Eliot Brown, Will Horner, Hannah Miao",
+            "title": "Stock Market News Today: Dow Slips Ahead Fed Meeting, Tech-Earnings This Week - The Wall Street Journal",
+            "description": "Follow The Wall Street Journal's full markets coverage.",
+            "url": "https://www.wsj.com/livecoverage/stock-market-news-today-01-30-2023",
+            "urlToImage": "https://images.wsj.net/im-589547/social",
+            "publishedAt": "2023-01-30T16:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Suicide bomber breaches high security, kills 47 in Pakistani mosque - Reuters",
+            "description": "A suicide bomber blew himself up inside a crowded mosque in a highly fortified security compound in Pakistan on Monday, killing 47 people, the latest attack by resurgent Islamist militants targeting police in the unstable country.",
+            "url": "https://www.reuters.com/world/asia-pacific/blast-mosque-pakistans-peshawar-70-injured-2023-01-30/",
+            "urlToImage": "https://www.reuters.com/resizer/MRNyk4qbM76IcfHjfCUbXz5zBZw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AHT7EMTJZVN6JMLCRWD7J7JAJM.jpg",
+            "publishedAt": "2023-01-30T16:22:00Z",
+            "content": "PESHAWAR, Pakistan, Jan 30 (Reuters) - A suicide bomber blew himself up inside a crowded mosque in a highly fortified security compound in Pakistan on Monday, killing 47 people, the latest attack by … [+3333 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Des Moines Register"
+            },
+            "author": "Dargan Southard",
+            "title": "What NFL media have said about Brock Purdy's injury, future with 49ers - Des Moines Register",
+            "description": "Brock Purdy's late-season magic ended Sunday with an elbow injury. Here's what the NFL media are saying about Purdy and his future with the 49ers.",
+            "url": "https://www.desmoinesregister.com/story/sports/college/iowa-state/football/2023/01/30/what-nfl-media-are-saying-about-ex-iowa-state-qb-brock-purdy-injury-future-with-san-francisco-49ers/69853893007/",
+            "urlToImage": "https://www.gannett-cdn.com/-mm-/e1cda981e253abd6f444d07e2d20d27d215eff7d/c=0-238-4555-2800/local/-/media/2023/01/29/USATODAY/usatsports/e7963c9392d44a459ac817f25087ddd4.jpg?width=3200&height=1800&fit=crop&format=pjpg&auto=webp",
+            "publishedAt": "2023-01-30T16:06:52Z",
+            "content": "Brock Purdys incredible late-season surge came to a disappointing end Sunday as the former Iowa State quarterback was injured early in the San Francisco 49ers 31-7 loss to the Philadelphia Eagles in … [+3624 chars]"
+        }
+    ]
+}
