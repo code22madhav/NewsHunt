@@ -12,7 +12,7 @@ import {
 //Route ke andar key dalna zaruri hai otherewise upar ka route to change hoga but compoenet re render nhi hoga to isliye samajh lo ki zabardasti render karwane ke liye key dena hai wo bhi unique
 //sfsdfs 
 export default class App extends Component {
-  pageSize=6;
+  pageSize=3;
   render() {
     return (
       <div>
